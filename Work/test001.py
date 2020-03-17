@@ -7,16 +7,15 @@
 
 
 for letter in 'Python':     # 第一个实例
-   print(letter,end='\t')
+    print(letter, end='\t')
 
-print("\n换行",end='\n')
+print("\n换行", end='\n')
 
 fruits = ['banana', 'apple',  'mango']
 for fruit in fruits:        # 第二个实例
-   print(fruit,end='\t')
+    print(fruit, end='\t')
 
-print("\nGood bye!",end='\n')
+print("\nGood bye!", end='\n')
 
-for i in (3, 5, 7):  print(i, end='\t')
-
-
+for i in (3, 5, 7):
+    print(i, end='\t')

@@ -1,4 +1,5 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\lcy19\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
 }
